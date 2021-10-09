@@ -8,7 +8,7 @@ pretrain_subnet2_s40.py <br>
 pretrain_subnet3_s40.py <br>
 ReST-Net_s40.py
 
-## Model
+## Saver
 subnet1.ckpt <br>
 subnet2.ckpt <br>
 subnet3.ckpt <br>
