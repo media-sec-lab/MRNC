@@ -1,6 +1,6 @@
 # ReST_Net
-This is a python implementation of ReST-Net as described in paper ReST-Net: Diverse Activation 
- Modules and Parallel Sub-nets based CNN for Spatial Image Steganalysis
+This is a python implementation using Tensorflow of ReST-Net as described in paper ReST-Net: Diverse Activation 
+ Modules and Parallel Sub-nets based CNN for Spatial Image Steganalysis. 
  
 ## Code （python implementation of ReST-Net） 
 pretrain_subnet1_s40.py <br>
@@ -16,7 +16,7 @@ ReST-Net.ckpt <br>
 
 ## Citation
 @article{li2018rest, <br> 
-  title={ReST-Net: Diverse activation modules and parallel subnets-based CNN for spatial image steganalysis}, <br>
+  #####title={ReST-Net: Diverse activation modules and parallel subnets-based CNN for spatial image steganalysis}, <br>
   author={Li, Bin and Wei, Weihang and Ferreira, Anselmo and Tan, Shunquan}, <br>
   journal={IEEE Signal Processing Letters}, <br>
   volume={25}, <br>
