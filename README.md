@@ -16,14 +16,14 @@ ReST-Net.ckpt <br>
 
 ## Citation
 ```shell
-@article{li2018rest, <br> 
-  title={ReST-Net: Diverse activation modules and parallel subnets-based CNN for spatial image steganalysis}, <br>
-  author={Li, Bin and Wei, Weihang and Ferreira, Anselmo and Tan, Shunquan}, <br>
-  journal={IEEE Signal Processing Letters}, <br>
-  volume={25}, <br>
-  number={5}, <br>
-  pages={650--654}, <br>
-  year={2018}, <br>
-  publisher={IEEE} <br>
+@article{li2018rest, 
+  title={ReST-Net: Diverse activation modules and parallel subnets-based CNN for spatial image steganalysis}, 
+  author={Li, Bin and Wei, Weihang and Ferreira, Anselmo and Tan, Shunquan}, 
+  journal={IEEE Signal Processing Letters}, 
+  volume={25}, 
+  number={5}, 
+  pages={650--654}, 
+  year={2018}, 
+  publisher={IEEE}
 }
 ```
