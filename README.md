@@ -15,6 +15,7 @@ subnet3.ckpt <br>
 ReST-Net.ckpt <br>
 
 ## Citation
+Please add following information if you cite the paper in your publication:
 ```shell
 @article{li2018rest, 
   title={ReST-Net: Diverse activation modules and parallel subnets-based CNN for spatial image steganalysis}, 
